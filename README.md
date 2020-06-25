@@ -2,7 +2,7 @@
 
 Basic blog web app using Django hosted on PythonAnywhere 
 
-Deployed: setocourtney.pythonanywhere.com
+Deployed: https://myfirstdjangoblog-yay.herokuapp.com/
 
 
 ## Features
