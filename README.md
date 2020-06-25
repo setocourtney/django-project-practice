@@ -21,6 +21,7 @@ Deployed: https://myfirstdjangoblog-yay.herokuapp.com/
 
 * Django
 * Python
+* PostgreSQL
 
 ## License
 
